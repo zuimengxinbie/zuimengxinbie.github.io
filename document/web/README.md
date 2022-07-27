@@ -137,6 +137,11 @@ permalink: /pages/document220101/
 - subscribe: 订阅  // si b s kua i b
 - shim: 实现  // xie m
 - poly: 脚本  // po li fill
+- upgrad: 升级 
+- interceptors: 拦截器
+- persisted: 持久化
+- batch: 批量
+- record: 记录
 
 ## 术语
 
