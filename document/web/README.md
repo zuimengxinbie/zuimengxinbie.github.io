@@ -142,6 +142,7 @@ permalink: /pages/document220101/
 - persisted: 持久化
 - batch: 批量
 - record: 记录
+- inspector: 检查
 
 ## 术语
 
