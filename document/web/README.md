@@ -143,6 +143,7 @@ permalink: /pages/document220101/
 - batch: 批量
 - record: 记录
 - inspector: 检查
+- pretter: 美丽、漂亮
 
 ## 术语
 
